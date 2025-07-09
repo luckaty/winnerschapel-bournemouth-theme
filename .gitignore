@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Node/npm (if any)
+node_modules/
+npm-debug.log
+
+# WordPress files outside the theme
+wp-content/plugins/
+wp-content/uploads/
+wp-content/cache/
+wp-config.php
+.htaccess
+.env
+
+# Composer (if used)
+vendor/
+composer.lock
+
+# Sass cache
+.sass-cache/
+
+# Archive files
+*.zip
+*.tar.gz
