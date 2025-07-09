@@ -53,12 +53,8 @@ winnerschapel-bournemouth-theme/
 └── style.css
 
 📸 Screenshots
-
-
-Homepage featuring Revolution Slider and announcement highlights.
-
-
-Sermon player and archive interface.
+![Homepage Screenshot](./homepage.png)
+![Sermon Screenshot](./sermon.png)
 
 
 🧑‍💼 Admin Instructions
@@ -89,11 +85,13 @@ Sermon player and archive interface.
 
         Revolution Slider (optional)
 
-    Configure Google API key for Places (in template-parts/google-review.php)
+    Configure Google API key for Places 
 
 🙏 Special Thanks
 
 To the amazing Winners Chapel Bournemouth team and leadership for the opportunity to contribute to your digital transformation.
+
+
 📜 License
 
 This theme is for use by Winners Chapel International Bournemouth only and is not licensed for commercial distribution.
